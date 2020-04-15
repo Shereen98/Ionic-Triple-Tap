@@ -1,0 +1,7 @@
+{
+  "name": "hammerTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
